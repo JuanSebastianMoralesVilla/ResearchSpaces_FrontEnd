@@ -1,0 +1,52 @@
+.current-page {
+    font-size: 1.5rem;
+    vertical-align: middle;
+}
+
+.country-page {
+    line-height: 1;
+}
+
+ul.pagination {
+    display: flex;
+    list-style-type: none;
+    border-radius: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding-top: 0.25rem;
+    padding-bottom: 0.412rem;
+}
+
+ul.pagination li.page-item.active a.page-link {
+    color: #ffffff !important;
+    background-color: #17c1e8 !important;
+    border-color: #ced4da !important;
+    border-radius: 10px;
+}
+
+ul.pagination a.page-link {
+    padding: 0.75rem 1rem;
+    min-width: 3.5rem;
+    text-align: center;
+    box-shadow: none !important;
+    border-color: #ced4da !important;
+    color: #6b88a4;
+    font-weight: 900;
+    font-size: 1rem;
+}
+
+ul.pagination a.page-link:hover {
+    background-color: #f4f4f4;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}

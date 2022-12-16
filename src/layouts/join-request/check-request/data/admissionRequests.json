@@ -1,0 +1,30 @@
+[
+    {
+        "admissionrequestid": 1,
+        "description_admission_request": "description",
+        "date_start": null,
+        "date_end": null,
+        "admission_status": null,
+        "research_group": null,
+        "user": {
+            "userid":2,
+            "first_name":"Alexa",
+            "last_name":"Liras",
+            "email": "a.liras@email.com"
+        }
+    },
+    {
+        "admissionrequestid": 2,
+        "description_admission_request": "description",
+        "date_start": "2022-10-17",
+        "date_end": null,
+        "admission_status": null,
+        "research_group": null,
+        "user": {
+            "userid":1,
+            "first_name":"Sheldon",
+            "last_name":"Cooper",
+            "email": "sheldon.cp@email.com"
+        }
+    }
+]

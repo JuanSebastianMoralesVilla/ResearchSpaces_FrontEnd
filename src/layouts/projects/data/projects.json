@@ -1,0 +1,42 @@
+[
+  {
+    "id_research_project": 1,
+    "name_research_project": "Sistema de parqueo inteligente",
+    "date_start": null,
+    "funding_status": "Ayer",
+    "institution_name": "ICESI",
+    "type_participation_institution": null,
+    "administrative_act_code": null,
+    "cost_value": null,
+    "summary": null,
+    "phase_research_project": "Planificación",
+    "research_area": null,
+    "project_funding_types": null,
+    "project_types": null,
+    "project_objectives": null,
+    "resource_group": null,
+    "project_funding_sources": null,
+    "project_users": null,
+    "progress": 20
+  },
+  {
+    "id_research_project": 2,
+    "name_research_project": "Estudio economico de la papa",
+    "date_start": null,
+    "funding_status": "Ayer",
+    "institution_name": "ICESI",
+    "type_participation_institution": null,
+    "administrative_act_code": null,
+    "cost_value": null,
+    "summary": null,
+    "phase_research_project": "Diseño",
+    "research_area": null,
+    "project_funding_types": null,
+    "project_types": null,
+    "project_objectives": null,
+    "resource_group": null,
+    "project_funding_sources": null,
+    "project_users": null,
+    "progress": 45
+  }
+]

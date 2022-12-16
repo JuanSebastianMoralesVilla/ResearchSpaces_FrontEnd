@@ -1,0 +1,21 @@
+[
+    {
+      "name": "I2T",
+      "colciencias_category": "C1",
+      "faculty":"Ingenieria",
+      "knowledge_area":"Telematica, IOT, Software"
+    },
+    {
+      "name": "UEFI",
+      "colciencias_category": "C1",
+      "faculty":"Ciencias Naturales",
+      "knowledge_area":"Microbiologia, Flora"
+    },
+    {
+      "name": "EDECONI",
+      "colciencias_category": "C2",
+      "faculty":"Ciencias Administrativas y Economicas",
+      "knowledge_area":"Mercado internacional, Finanzas"
+    }
+  ]
+  
